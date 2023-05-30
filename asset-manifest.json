@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.dd03353f.css",
-    "main.js": "/music/static/js/main.f6b8f0f4.js",
-    "static/js/787.5d86c2a1.chunk.js": "/music/static/js/787.5d86c2a1.chunk.js",
-    "static/media/man-dancing-light.svg": "/music/static/media/man-dancing-light.9f03b022bf4fd5724223cb34e4c546f2.svg",
-    "static/media/guitar.svg": "/music/static/media/guitar.9564af2e584f11356aa07cb9cca97d33.svg",
-    "static/media/dj.svg": "/music/static/media/dj.484b4cc7189f6acfc4a2f6f19e63e367.svg",
-    "static/media/headphone.svg": "/music/static/media/headphone.31f841bb38c48d44cb9764a45601b615.svg",
-    "static/media/black-cat.svg": "/music/static/media/black-cat.ee2c017d9dcbe4116eb42a538fa70207.svg",
-    "static/media/spotify.svg": "/music/static/media/spotify.d1ce9b638ed942d63452419815df2dba.svg",
-    "static/media/apple.svg": "/music/static/media/apple.8883e3900f3585edfe4c2f1d1cbf174e.svg",
-    "static/media/musical-keyboard.svg": "/music/static/media/musical-keyboard.c833730a118b879b60e0ba496126b745.svg",
-    "static/media/youtube.svg": "/music/static/media/youtube.291d6ff1310d00d9a7d9018acc0da394.svg",
-    "index.html": "/music/index.html",
-    "main.dd03353f.css.map": "/music/static/css/main.dd03353f.css.map",
-    "main.f6b8f0f4.js.map": "/music/static/js/main.f6b8f0f4.js.map",
-    "787.5d86c2a1.chunk.js.map": "/music/static/js/787.5d86c2a1.chunk.js.map"
+    "main.css": "/static/css/main.dd03353f.css",
+    "main.js": "/static/js/main.57559a30.js",
+    "static/js/787.5d86c2a1.chunk.js": "/static/js/787.5d86c2a1.chunk.js",
+    "static/media/man-dancing-light.svg": "/static/media/man-dancing-light.9f03b022bf4fd5724223cb34e4c546f2.svg",
+    "static/media/guitar.svg": "/static/media/guitar.9564af2e584f11356aa07cb9cca97d33.svg",
+    "static/media/dj.svg": "/static/media/dj.484b4cc7189f6acfc4a2f6f19e63e367.svg",
+    "static/media/headphone.svg": "/static/media/headphone.31f841bb38c48d44cb9764a45601b615.svg",
+    "static/media/black-cat.svg": "/static/media/black-cat.ee2c017d9dcbe4116eb42a538fa70207.svg",
+    "static/media/spotify.svg": "/static/media/spotify.d1ce9b638ed942d63452419815df2dba.svg",
+    "static/media/apple.svg": "/static/media/apple.8883e3900f3585edfe4c2f1d1cbf174e.svg",
+    "static/media/musical-keyboard.svg": "/static/media/musical-keyboard.c833730a118b879b60e0ba496126b745.svg",
+    "static/media/youtube.svg": "/static/media/youtube.291d6ff1310d00d9a7d9018acc0da394.svg",
+    "index.html": "/index.html",
+    "main.dd03353f.css.map": "/static/css/main.dd03353f.css.map",
+    "main.57559a30.js.map": "/static/js/main.57559a30.js.map",
+    "787.5d86c2a1.chunk.js.map": "/static/js/787.5d86c2a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd03353f.css",
-    "static/js/main.f6b8f0f4.js"
+    "static/js/main.57559a30.js"
   ]
 }
